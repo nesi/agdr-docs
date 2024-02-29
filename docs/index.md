@@ -1,14 +1,16 @@
 # Aotearoa Genomic Data Repository
 
-[cards cols=3 (cards-services.yaml)]
+- [User Guides](user-guides/index.md)
 
-[cards cols=2 (cards-home.yaml)]
+- [Release Notes](releases/index.md)
 
-[User Guides](user-guides/index.md){ .md-button .md-button--primary }
 
-[Release Notes](releases/index.md){ .md-button .md-button--primary }
+# <mark font-family: Calibri><kbd> [ User Guides ](user-guides/index.md) </kbd></mark> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <mark><kbd>  [ Release Notes ](releases/index.md)<br> </kbd></mark>
 
 ## Recent activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
+
+

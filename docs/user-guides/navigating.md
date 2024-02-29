@@ -2,8 +2,10 @@
 
 The Aotearoa Genomic Data Repository landing page is available at https://data.agdr.org.nz/
 
+![Alt text](../assets/images/getstart1.png) [Title](navigating.md)
+
 <figure markdown>
-  ![Alt text](../assets/images/getstart1.png)
+    ![Alt text](../assets/images/getstart1.png)
 </figure>
 
 ## Authentication is not required
@@ -31,7 +33,7 @@ By selecting any filter element, such as a project ID, other filters and total c
 Clicking on the ‘Files’ tab enables exploration of uploaded files based on project ID, data types, and data format.
 
 <figure markdown>
-  ![Alt text](../assets/images/getstart4.png)
+  ![Alt text](/docs/assets/images/getstart4.png)
 </figure>
 
 Scroll down to see the list of files.
@@ -39,6 +41,10 @@ Scroll down to see the list of files.
 <figure markdown>
   ![Alt text](../assets/images/getstart5.png)
 </figure>
+
+<img src="/docs/assets/images/getstart5.png"
+     alt="getstart5"
+     style="float: left; margin-right: 10px;" />
 
 Clicking on the project ID of a file will display more information about the associated project. 
 
@@ -64,3 +70,5 @@ Relationships between nodes are represented by arrows from one node to another.
 - View the Data Dictionary as a table to see the name and a brief description of each node, organised by node category. Click on the name of a node to display more information about its properties.
 
 The metadata dictionary is under review and we would appreciate feedback.
+
+[back](index.md)
