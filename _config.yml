@@ -1,3 +1,61 @@
 name: AGDR Support files - proof of concept
-theme: minima
-description: test
+site_name: AGDR Support files - proof of concept
+repo_url: https://github.com/nesi/agdr-docs-concept
+repo_name: nesi/agdr-docs-concept
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+
+description: agdr test
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - def_list
+  - tables
+  - neoteroi.cards
+  - neoteroi.timeline
+
+plugins:
+  - glightbox
+  - search
+  - literate-nav:
+      nav_file: summary.md
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra_css:
+  - assets/css/neoteroi-mkdocs.css
+  - assets/css/footer.css
+  # - assets/css/my.css
