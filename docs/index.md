@@ -6,7 +6,7 @@
 
 [User Guides](user-guides/index.md){ .md-button .md-button--primary }
 
-[Apply for early access](releases/index.md){ .md-button .md-button--primary }
+[Release Notes](releases/index.md){ .md-button .md-button--primary }
 
 ## Recent activity
 
