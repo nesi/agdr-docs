@@ -2,11 +2,7 @@
 
 The Aotearoa Genomic Data Repository landing page is available at https://data.agdr.org.nz/
 
-![Alt text](../assets/images/getstart1.png) [Title](navigating.md)
-
-<figure markdown>
-    ![Alt text](../assets/images/getstart1.png)
-</figure>
+![Alt text](../assets/images/getstart1.png)
 
 ## Authentication is not required
 
@@ -18,33 +14,21 @@ The data in the repository can be searched via the projects page and browsed via
 
 The project explorer -  "Projects" tab on the top menu, allows you to search by keyword, such as species, author, project code etc. You can also filter using the tags at the top of the page.
 
-<figure markdown>
-  ![Alt text](../assets/images/getstart2.png)
-</figure>
+![Alt text](../assets/images/getstart2.png)
 
 The Exploration page - “Exploration” tab in the top menu, allows you to filter at the experiment level by various aspects such as geography and species.  You can also filter based on "publications" and the “Files” in the top navigation bar can be used to explore data at a file level.
 
-<figure markdown>
-  ![Alt text](../assets/images/getstart3.png)
-</figure>
+![Alt text](../assets/images/getstart3.png)
 
 By selecting any filter element, such as a project ID, other filters and total count of related species and projects are updated dynamically. 
 
 Clicking on the ‘Files’ tab enables exploration of uploaded files based on project ID, data types, and data format.
 
-<figure markdown>
-  ![Alt text](/docs/assets/images/getstart4.png)
-</figure>
+![Alt text](../assets/images/getstart4.png)
 
 Scroll down to see the list of files.
 
-<figure markdown>
-  ![Alt text](../assets/images/getstart5.png)
-</figure>
-
-<img src="/docs/assets/images/getstart5.png"
-     alt="getstart5"
-     style="float: left; margin-right: 10px;" />
+![Alt text](../assets/images/getstart5.png)
 
 Clicking on the project ID of a file will display more information about the associated project. 
 
@@ -54,9 +38,7 @@ Please note although file metadata is shown, the data files are not available fo
 
 From all the discovery and exploration pages project IDs can be clicked to see more information around the associated project.
 
-<figure markdown>
-  ![Alt text](../assets/images/getstart6.png)
-</figure>
+![Alt text](../assets/images/getstart6.png)
 
 The project view shows the name of the project, a brief description, and the Investigator information, file numbers and type, as well as a project DOI.
 

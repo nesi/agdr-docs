@@ -1,16 +1,14 @@
 # Aotearoa Genomic Data Repository
 
+![Alt text](assets/images/kakapo.jpg)
+
 - [User Guides](user-guides/index.md)
 
 - [Release Notes](releases/index.md)
 
 
-# <mark font-family: Calibri><kbd> [ User Guides ](user-guides/index.md) </kbd></mark> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <mark><kbd>  [ Release Notes ](releases/index.md)<br> </kbd></mark>
-
 ## Recent activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+we could do something like that if needed https://github.com/marketplace/actions/github-activity-readme
 
 
