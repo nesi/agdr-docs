@@ -1,10 +1,12 @@
 # Aotearoa Genomic Data Repository
 
-[cards cols=3 (./docs/cards-services.yaml)]
+[cards cols=3 (cards-services.yaml)]
 
+[cards cols=2 (cards-home.yaml)]
 
+[User Guides](user-guides/index.md){ .md-button .md-button--primary }
 
-[cards cols=2 (./docs/cards-home.yaml)]
+[Apply for early access](releases/index.md){ .md-button .md-button--primary }
 
 ## Recent activity
 
