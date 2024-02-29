@@ -1,10 +1,8 @@
-name: AGDR Support files - proof of concept
 site_name: AGDR Support files - proof of concept
 repo_url: https://github.com/nesi/agdr-docs-concept
 repo_name: nesi/agdr-docs-concept
 theme:
   name: material
-  custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -26,8 +24,6 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.top
-
-description: agdr test
 
 markdown_extensions:
   - pymdownx.highlight:
