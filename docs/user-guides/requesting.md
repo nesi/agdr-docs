@@ -20,6 +20,6 @@ After submitting the form, you will receive an e-mail confirmation. Please answe
 
 ![Alt text](../assets/images/request3.png)
 
-Once the form is submitted, NeSI’s GA support team at gasupport@gmail.com (currently Brian Flaherty, Jun Huh, and Dinindu Senanayake) gets the notification of new request and a ticket gets created. The request will be reviewed by Genomics Aotearoa's review panel, and your access will be granted or we will reach out back to you for more information if needed.
+Once the form is submitted, NeSI’s support team is notified of a new request and a ticket is created. The request will be reviewed by the AGDR team and passed on to the appropriate kaitiaki. After approval access will be granted to the data, alternatively we will reach out for more information in order to support your application and move towards approval. This process usually takes about 1 month, but feel free to reach out to gasupport@gmail.com if you have any concerns.
 
 [back](index.md)
