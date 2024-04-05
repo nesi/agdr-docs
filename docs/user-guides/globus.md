@@ -38,7 +38,9 @@ In order to download from above endpoint, you will need a destination endpoint. 
 7. In the file manager, click on the double panel icon ![Alt text](../assets/images/globus15.png) and you will see the data repository on one panel, and blank on the other.
 8. On the blank panel, select the destination endpoint you have access to, which may be your personal endpoint or your institutional endpoint.
 9. Navigate to locations for transfer source and destination on both panels
-10. Select folders and files that you wish to transfer, and then click Start5. 
+10. Select folders and files that you wish to transfer, and then click Start5.
+
+Recommendations: please use standard conventions for file and folder naming (without space, comma and any non-alphanumerical character)
 
 ![Alt text](../assets/images/globus2.png)
 
