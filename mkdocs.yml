@@ -27,8 +27,6 @@ extra:
     property: G-TVQR4R1F40
 plugins:
   - search
-  - redirects:
-      map_file: docs/redirect_map.yml
   - awesome-pages:
       filename: .pages.yml
  # - git-authors
@@ -42,12 +40,12 @@ plugins:
       module_name: macro_hooks
       include_dir: overrides
 repo_name: GitHub
-repo_url: https://github.com/nesi/support-docs
+repo_url: https://github.com/nesi/agdr-docs-concept
 edit_uri: edit/main/docs/
 site_description: NeSI Support Documentation
 site_dir: public
 site_name: NeSI Support Documentation
-site_url: https://github.com/nesi/support-docs
+site_url: https://github.com/nesi/agdr-docs-concept
 extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
@@ -60,11 +58,9 @@ theme:
   favicon: assets/icons/favicon.ico
   features:
     - navigation.indexes
-    # - navigation.sections
     - navigation.instant          # Single Page Application
     - navigation.instant.prefetch # Start loading page on link hover. Insiders only
     - navigation.top              # 'Return to top' button
-    # - navigation.prune            # Reduces site size. ALSO BREAKS NAV BEHAVIOR
     - navigation.tracking         # Put anchor in URL
     - navigation.path             # Breadcrumbs. Insiders only
     - content.code.copy
