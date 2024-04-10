@@ -1,5 +1,3 @@
-hooks:
-  - mkdocs_hooks.py
 markdown_extensions:
   - toc:
       baselevel: 1
@@ -21,10 +19,10 @@ markdown_extensions:
   - neoteroi.cards
   - neoteroi.timeline
   - footnotes
-extra:
-  analytics:
-    provider: google
-    property: G-TVQR4R1F40
+# extra:
+#   analytics:
+#     provider: google
+#     property: 
 plugins:
   - search
   - awesome-pages:
@@ -42,17 +40,15 @@ plugins:
 repo_name: GitHub
 repo_url: https://github.com/nesi/agdr-docs-concept
 edit_uri: edit/main/docs/
-site_description: NeSI Support Documentation
+site_description: AgDR
 site_dir: public
-site_name: NeSI Support Documentation
+site_name: AgDR
 site_url: https://github.com/nesi/agdr-docs-concept
 extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
-  - assets/stylesheets/custom_admonations.css
+  - assets/stylesheets/my.css
   - assets/stylesheets/theme.css
-extra_javascript:
-    - assets/javascripts/general.js
 theme:
   custom_dir: overrides
   favicon: assets/icons/favicon.ico
