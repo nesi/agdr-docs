@@ -16,8 +16,8 @@ Press `.`, will open up Visual Studio Code in browser.
 
 ## Major edits through GitHub
 
-This repository has been configured to be useable with [GitHub Codespaces](https://github.com/features/codespaces).
-It allows acessing a full featured pre-configured development environment remotely, without installing anything on your local machine.
+This repository has been configured to be usable with [GitHub Codespaces](https://github.com/features/codespaces).
+It allows accessing a full featured preconfigured development environment remotely, without installing anything on your local machine.
 
 Clicking on the following link will open a VS Code instance ready to be used with the latest version of the documentation files.
 
@@ -137,41 +137,3 @@ If the CI is failing the spellcheck phase, and you believe the identified words 
 ## Raise an issue
 
 *Not documented at the moment (TODO)*
-
-## The 'Supported Apps' Page
-
-Quite a lot of data-sources come together to make this page:
-
-- mkdocs article titles
-- lmod info scraped from all clusters
-- licence counts from promethius instance
-- licence details from config file
-- Manual overwrites in the [modules list repo](https://github.com/nesi/modules-list/blob/main/tags/licence_type.yml).
-
-Most of these are collected together in the [modules list repo](https://github.com/nesi/modules-list/blob/main/tags/licence_type.yml)
-
-### Adding/Fixing Information
-
-#### Description, Homepage, Packages, Clusters
-
-Fix the information in the module file.
-
-#### NeSI Documentation Link
-
-Is there a child page with the same title as the module? (case sensitive).
-
-#### Domain, Licence Type
-
-Can be added in [modules list](https://github.com/nesi/modules-list/blob/main/tags/domains.yml)
-
-#### Network Licence Details
-
-Ask cal, or read the readme at `/opt/nesi/nesi-apps-admin/LicConfig/`
-
-### Everything Else
-
-Can be added in the manual [overwrite file](https://github.com/nesi/modules-list/blob/main/overwrites.yml).
-
-### Updating
-
-Any of these changes will require an [update of remote assets](#update-remote-assets).
