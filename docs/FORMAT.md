@@ -113,12 +113,6 @@ An Admonition **shouldn't be made collapsable-closed** (`???`) unless it has bee
 
 There are various flavors.
 
-!!! prerequisite
-    - [link to page a user should read in order to follow](FORMAT.md)
-    - some thing other requirement user must have to follow this page
-    - usually you will want this to be a list format.
-    - Should be right at the top of the page.
-
 !!! tip "with title"
     For tangential actionable advice.  
     *`x` other command may be useful here.*
@@ -154,117 +148,6 @@ There are various flavors.
     
     !!! quote
         Havn't seen a reason to use this yet.
-    
-    !!! pied-piper
-        don't use this (unless Dini).
-    
-    !!! desktop-download-24
-        don't use this (unless Dini).
-    
-    !!! magnifying-glass
-        don't use this (unless Dini).
-    
-    !!! microscope
-        don't use this (unless Dini).
-    
-    !!! vial-virus
-        don't use this (unless Dini).
-    
-    !!! database
-        don't use this (unless Dini).
-    
-    !!! folder-open
-        don't use this (unless Dini).
-    
-    !!! backward
-        don't use this (unless Dini).
-    
-    !!! jupyter
-        don't use this (unless Dini).
-    
-    !!! terminal
-        don't use this (unless Dini).
-    
-    !!! r-project
-        don't use this (unless Dini).
-    
-    !!! calendar-days
-        don't use this (unless Dini).
-    
-    !!! bell
-        don't use this (unless Dini).
-    
-    !!! comment-dots
-        don't use this (unless Dini).
-    
-    !!! check-to-slot
-        don't use this (unless Dini).
-    
-    !!! square-xmark
-        don't use this (unless Dini).
-    
-    !!! rectangle-list
-        don't use this (unless Dini).
-    
-    !!! screwdriver-wrench
-        don't use this (unless Dini).
-    
-    !!! linux
-        don't use this (unless Dini).
-    
-    !!! code-compare
-        don't use this (unless Dini).
-    
-    !!! heading
-        don't use this (unless Dini).
-    
-    !!! space-awesome
-        don't use this (unless Dini).
-    
-    !!! stethoscope
-        don't use this (unless Dini).
-    
-    !!! key
-        don't use this (unless Dini).
-    
-    !!! users-line
-        don't use this (unless Dini).
-    
-    !!! file-code
-        don't use this (unless Dini).
-    
-    !!! hand-holding-dollar
-        don't use this (unless Dini).
-    
-    !!! circle-question
-        don't use this (unless Dini).
-    
-    !!! microphone
-        don't use this (unless Dini).
-    
-    !!! tower-observation
-        don't use this (unless Dini).
-    
-    !!! circle-info
-        don't use this (unless Dini).
-    
-    !!! icon--python
-        don't use this (unless Dini).
-    
-    !!! quote-right
-        don't use this (unless Dini).
-    
-    !!! image
-        don't use this (unless Dini).
-    
-    !!! table
-        don't use this (unless Dini).
-    
-    !!! glass-chart
-        don't use this (unless Dini).
-    
-    !!! file-export
-        don't use this (unless Dini).
 
 ## Code
 
@@ -517,45 +400,3 @@ There are a few includes you may want to use.
 | Path | content | usage |
 | ---- | ------- | ----- |
 | ```{% raw %}{% include "partials/support_request.html" %}{% endraw %}``` | ```<a href="mailto:support@nesi.org.nz">Contact our Support Team</a>``` | Anywhere the user is told to contact support. |
-| ```{% raw %}{% include "partials/appHeader.html" %}{% endraw %}``` | Info block | At the top of documents about particular software (TODO: elaborate) |
-| ```{% raw %}{% include "partials/app/app_network_licence.html" %}{% endraw %}``` | List of network licences | When dynamic licence info is required (used in `appHeader.html`)  |
-| ```{% raw %}{% include "partials/app/app_version.html" %}{% endraw %}``` | List of versions and a 'module load' code-block. | When dynamic version info is required |
-
-### Variables injection
-
-Here is an example using dynamically using the module version information.
-
-`module load ANSYS/{{ applications.ANSYS.machines.mahuika.versions | last }}`
-
-```md
-{% raw %}
-`module load ANSYS/{{ applications.ANSYS.machines.mahuika.versions | last }}`
-{% endraw %}
-```
-
-### Advanced Macros
-
-And here is another example showing all Python packages installed in Python modules.
-
-??? "Fancy Example"
-    Our Python modules come pre-built with the following packages:
-    {% set pyexts=applications.Python.extensions.split(', ') %}
-    <table>
-    <tr><th>Package</th></tr>
-    {% for pyext in pyexts %}
-    <tr><td>{{ pyext }}</td></tr>
-    {% endfor %}
-    </table>
-
-    ```md
-    {% raw %}
-    Our Python modules come prebuilt with the following packages: 
-    {% set pyexts=applications.Python.extensions.split(', ') %}
-    <table>
-    <tr><th>Package</th></tr>
-    {% for pyext in pyexts %}
-    <tr><td>{{ pyext }}</td></tr>
-    {% endfor %}
-    {% endraw %}
-    </table>
-    ```
