@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)
 
 - [User Guides](user-guides/index.md)
