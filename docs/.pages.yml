@@ -1,5 +1,12 @@
 # Page tree
 nav:
   - user-guides
-  - releases
-
+    - Navigating the data repository: docs/user-guides/navigating.md
+    - Requesting access to data: docs/user-guides/requesting.md
+    - Accessing data hosted on NeSI Globus endpoint: docs/user-guides/globus.md
+    - Submission Process: docs/user-guides/submission.md
+  - Releases
+    - Known Deficiencies: docs/releases/deficiencies.md
+    - data.agdr.org.nz 16 January 2024: docs/releases/16Jan2024.md
+    - data.agdr.org.nz 16 October 2023: docs/releases/16Oct2023.md
+    - data.agdr.org.nz 22 June 2023: docs/releases/22June2023.md
