@@ -5,5 +5,3 @@
 - Also message": "'unaligned reads' is not one of ['Unaligned Reads']" - must be capital case
 
 - TSV cannot have any empty columns
-
-[back](index.md)

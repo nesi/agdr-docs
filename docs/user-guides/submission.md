@@ -22,5 +22,3 @@ The metadata Template spreadsheet is available as a [google sheet](https://docs.
 Once you have made a copy of this document, please fill in all the fields as much as you can under 'Your input'. Please note that there are multiple tabs which you can access via the buttons at the bottom.
 The required fields are highlighted in green, though we recommend you provide as much metadata as possible. This spreadsheet is based on the AGDR data dictionary - https://data.agdr.org.nz/DD although some of the more obscure fields are not included in the template. If you have additional metadata, please let us know and we will see how best we can accommodate it. 
 If you have any questions throughout the process, please feel free to reach out to gasupport@nesi.org.nz.
-
-[back](index.md)

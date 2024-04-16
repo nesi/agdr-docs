@@ -17,5 +17,5 @@ layout: default
 
 ## Support
 
-[Submit a request](mailto:gasupport@nesi.org.nz?Request_from_Support_Pages)
+[Submit a request](mailto:gasupport@nesi.org.nz?Request_from_Support_Pages){:target="_blank"}
 

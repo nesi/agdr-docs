@@ -48,4 +48,3 @@ Recommendations: please use standard conventions for file and folder naming (wit
 
 ![Alt text](../assets/images/globus3.png)
 
-[back](index.md)

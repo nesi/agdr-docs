@@ -7,5 +7,3 @@ data.agdr.org.nz web application release notes
 - [data.agdr.org.nz 16 October 2023](16Oct2023.md)
 - [data.agdr.org.nz 08 August 2023](08Aug2023.md)
 - [data.agdr.org.nz 22 June 2023](22June2023.md)
-
-[back](../index.md)
