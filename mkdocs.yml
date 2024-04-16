@@ -80,10 +80,10 @@ nav:
   - Home: index.md
   - User Guides:
     - user-guides/index.md
-    - Navigating the data repository: navigating.md
-    - Requesting access to data: requesting.md
-    - Accessing data hosted on NeSI Globus endpoint: globus.md
-    - Submission Process: submission.md
+    - Navigating the data repository: user-guides/navigating.md
+    - Requesting access to data: user-guides/requesting.md
+    - Accessing data hosted on NeSI Globus endpoint: user-guides/globus.md
+    - Submission Process: user-guides/submission.md
   - Releases:
     - releases/index.md
     - Known Deficiencies: releases/deficiencies.md
