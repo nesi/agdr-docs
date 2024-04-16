@@ -1,4 +1,6 @@
-# Navigating the data repository
+---
+title: Navigating the data repository
+---
 
 The Aotearoa Genomic Data Repository landing page is available at https://data.agdr.org.nz/
 

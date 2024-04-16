@@ -1,4 +1,6 @@
-# Accessing data hosted on NeSI Globus endpoint
+---
+tags: [globus]
+---
 
 Most of the Aotearoa Genomic Data Repository datasets are currently hosted on NeSI with access via Globus. Once you have been approved for access to a dataset you wish to do research on (See here: [Requesting access to data](navigating.md), for how to request access), NeSI's support team will grant you read permission on the data repository Globus endpoint.
 
