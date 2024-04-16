@@ -39,9 +39,9 @@ plugins:
 repo_name: GitHub
 repo_url: https://github.com/nesi/agdr-docs-concept
 edit_uri: edit/main/docs/
-site_description: AgDR
+site_description: AGDR
 site_dir: public
-site_name: AgDR
+site_name: AGDR
 site_url: https://github.com/nesi/agdr-docs-concept
 extra_css:
   - assets/stylesheets/neoteroi-mkdocs.css
@@ -75,3 +75,19 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
+# Page tree
+nav:
+  - Home: index.md
+  - User Guides:
+    - user-guides/index.md
+    - Navigating the data repository: navigating.md
+    - Requesting access to data: requesting.md
+    - Accessing data hosted on NeSI Globus endpoint: globus.md
+    - Submission Process: submission.md
+  - Releases:
+    - releases/index.md
+    - Known Deficiencies: releases/deficiencies.md
+    - data.agdr.org.nz 16 January 2024: releases/16Jan2024.md
+    - data.agdr.org.nz 16 October 2023: releases/16Oct2023.md
+    - data.agdr.org.nz 08 August 2023: releases/08Aug2023.md
+    - data.agdr.org.nz 22 June 2023: releases/22June2023.md

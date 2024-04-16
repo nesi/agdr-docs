@@ -52,5 +52,3 @@ Relationships between nodes are represented by arrows from one node to another.
 - View the Data Dictionary as a table to see the name and a brief description of each node, organised by node category. Click on the name of a node to display more information about its properties.
 
 The metadata dictionary is under review and we would appreciate feedback.
-
-[back](index.md)
