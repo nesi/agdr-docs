@@ -77,13 +77,11 @@ theme:
         name: Switch to light mode
 nav:
   - User Guides:
-    - docs/user-guides/index.md
     - Navigating the data repository: docs/user-guides/navigating.md
     - Requesting access to data: docs/user-guides/requesting.md
     - Accessing data hosted on NeSI Globus endpoint: docs/user-guides/globus.md
     - Submission Process: docs/user-guides/submission.md
   - Releases:
-    - docs/releases/index.md
     - Known Deficiencies: docs/releases/deficiencies.md
     - data.agdr.org.nz 16 January 2024: docs/releases/16Jan2024.md
     - data.agdr.org.nz 16 October 2023: docs/releases/16Oct2023.md

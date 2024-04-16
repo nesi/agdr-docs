@@ -13,7 +13,7 @@ layout: default
 
 [//]: # (we could do something like that if needed https://github.com/marketplace/actions/github-activity-readme in the future but for the moment it is manual)
 
-- Moving content to from https://gadr.zendesk.com/hc/en-gb to new AGDR support documents location
+- Moving content to https://docs.agdr.org.nz from https://gadr.zendesk.com/hc/en-gb to new AGDR support documents location
 
 ## Support
 
