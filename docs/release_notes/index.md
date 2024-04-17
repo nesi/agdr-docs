@@ -1,5 +1,3 @@
-# Release Notes data.agdr.org.nz
-
 data.agdr.org.nz web application release notes
 
 - [Known Deficiencies](deficiencies.md)
