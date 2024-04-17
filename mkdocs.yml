@@ -62,7 +62,7 @@ theme:
     - content.action.edit
     - header.site_name_homepage
   language: en
-  logo: assets/icons/ga_logo_small_black.png
+  logo: assets/icons/ga_logo_alpha.svg
   name: material
   palette:
     - primary: custom
