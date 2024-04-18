@@ -1,4 +1,7 @@
-# Navigating the data repository
+---
+tags: []
+description: ""
+---
 
 The Aotearoa Genomic Data Repository landing page is available at https://data.agdr.org.nz/
 
@@ -6,7 +9,7 @@ The Aotearoa Genomic Data Repository landing page is available at https://data.a
 
 ## Authentication is not required
 
-Any user can browse the Aotearoa Genomic Data Repository, and project metadata is visible to all users. However, to access the data, you will need to apply for access. 
+Any user can browse the Aotearoa Genomic Data Repository, and project metadata is visible to all users. However, to access the data, you will need to apply for access.
 
 ## Discovering Projects
 

@@ -1,4 +1,7 @@
-# Submission Process
+---
+tags: []
+description: ""
+---
 
 This is a user guide for the Aotearoa Genomic Data Repository. This guide focuses on how to provide metadata and data so that they can be added to the repository as a dataset.
 
