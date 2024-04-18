@@ -52,7 +52,8 @@ theme:
   custom_dir: overrides
   favicon: assets/icons/favicon.ico
   features:
-    - navigation.indexes
+    # - navigation.indexes
+    # - navigation.sections
     - navigation.instant          # Single Page Application
     - navigation.instant.prefetch # Start loading page on link hover. Insiders only
     - navigation.top              # 'Return to top' button
