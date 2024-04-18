@@ -16,8 +16,6 @@ markdown_extensions:
     # - docs/assets/glossary/snippets.md  # Causes massive slowdown. Also, bad.
   - attr_list
   - abbr
-  - neoteroi.cards
-  - neoteroi.timeline
   - footnotes
 # extra:
 #   analytics:
@@ -33,8 +31,8 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: false
   - macros:
-      on_error_fail: !ENV [TEST_ENV, false]
-      verbose: !ENV [TEST_ENV, false]
+      on_error_fail: true
+      verbose: false
       include_dir: overrides
 repo_name: GitHub
 repo_url: https://github.com/nesi/agdr-docs-concept
@@ -44,7 +42,6 @@ site_dir: public
 site_name: AGDR
 site_url: https://github.com/nesi/agdr-docs-concept
 extra_css:
-  - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
   - assets/stylesheets/my.css
   - assets/stylesheets/theme.css
@@ -63,7 +60,7 @@ theme:
     - content.action.edit
     - header.site_name_homepage
   language: en
-  logo: assets/icons/ga_logo_small_black.png
+  logo: assets/icons/ga_logo_alpha.svg
   name: material
   palette:
     - primary: custom
