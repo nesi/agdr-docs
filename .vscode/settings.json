@@ -9,6 +9,9 @@
         ],
         "spelling-checks": [
             "docs/**/*.md"
+        ],
+        "test-build": [
+            "docs/**/*.md"
         ]
     },
     "files.autoSave": "afterDelay",
@@ -35,5 +38,8 @@
     "yaml.extension.recommendations": false,
     "redhat.telemetry.enabled": false,
     "githubPullRequests.pushBranch": "always",
-    "git.useEditorAsCommitInput": false
+    "git.useEditorAsCommitInput": false,
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///workspaces/support-docs/.github/workflows/deploy.yml"
+    }
 }
