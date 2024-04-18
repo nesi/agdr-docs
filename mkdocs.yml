@@ -16,8 +16,6 @@ markdown_extensions:
     # - docs/assets/glossary/snippets.md  # Causes massive slowdown. Also, bad.
   - attr_list
   - abbr
-  - neoteroi.cards
-  - neoteroi.timeline
   - footnotes
 # extra:
 #   analytics:
@@ -33,8 +31,8 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: false
   - macros:
-      on_error_fail: !ENV [TEST_ENV, false]
-      verbose: !ENV [TEST_ENV, false]
+      on_error_fail: true
+      verbose: false
       include_dir: overrides
 repo_name: GitHub
 repo_url: https://github.com/nesi/agdr-docs-concept
@@ -44,7 +42,6 @@ site_dir: public
 site_name: AGDR
 site_url: https://github.com/nesi/agdr-docs-concept
 extra_css:
-  - assets/stylesheets/neoteroi-mkdocs.css
   - assets/stylesheets/footer.css
   - assets/stylesheets/my.css
   - assets/stylesheets/theme.css
@@ -75,15 +72,4 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
-nav:
-  - User Guides:
-    - Navigating the data repository: ./docs/user-guides/navigating.md
-    - Requesting access to data: docs/user-guides/requesting.md
-    - Accessing data hosted on NeSI Globus endpoint: docs/user-guides/globus.md
-    - Submission Process: docs/user-guides/submission.md
-  - Releases:
-    - Known Deficiencies: docs/releases/deficiencies.md
-    - data.agdr.org.nz 16 January 2024: docs/releases/16Jan2024.md
-    - data.agdr.org.nz 16 October 2023: docs/releases/16Oct2023.md
-    - data.agdr.org.nz 22 June 2023: docs/releases/22June2023.md
 
