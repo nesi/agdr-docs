@@ -29,15 +29,12 @@ def ignore_macro(record):
     return True
     
 if __name__ == '__main__':
-    try:
-        log = logging.getLogger('root')
-        log.setLevel(logging.INFO)
-        sh = logging.StreamHandler(sys.stdout)
-        sh.addFilter(ignore_macro)
-        sh.setFormatter(logging.Formatter(
-            '::%(levelname)s file=%(filename)s,title=%(name)s,col=0,endColumn=0,line=%(lineno)s::%(message)s'))
-        log.addHandler(sh)
-        config = load_config(config_file_path="./mkdocs.yml")
-        build.build(config, None, True)
-    except Exception as e:
-        print(e)
+    log = logging.getLogger('root')
+    log.setLevel(logging.INFO)
+    sh = logging.StreamHandler(sys.stdout)
+    sh.addFilter(ignore_macro)
+    sh.setFormatter(logging.Formatter(
+        '::%(levelname)s file=%(filename)s,title=%(name)s,col=0,endColumn=0,line=%(lineno)s::%(message)s'))
+    log.addHandler(sh)
+    config = load_config(config_file_path="./mkdocs.yml")
+    build.build(config, None, True)

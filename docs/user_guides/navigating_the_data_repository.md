@@ -47,7 +47,7 @@ The project view shows the name of the project, a brief description, and the Inv
 
 ## Data Dictionary
 
-The Data Dictionary Viewer - "Metadata Dictionary" in the top menu, is designed to make it easier to understand the data model, the field types associated with each node, and the potential values associated with each field. It displays available fields in a node and the dependencies a given node has to the existence of a prior node. 
+The Data Dictionary Viewer - "Metadata Dictionary" in the top menu, is designed to make it easier to understand the data model, the field types associated with each node, and the potential values associated with each field. It displays available fields in a node and the dependencies a given node has to the existence of a prior node.
 
 - View the Data Dictionary as a graph to see each node, its properties, and its relationships.
 Relationships between nodes are represented by arrows from one node to another.
