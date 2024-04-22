@@ -2,7 +2,7 @@
 title: Formatting
 ---
 
-**[CLICK TO VIEW THIS PAGE RENDERED IN MKDOCS](https://nesi.github.io/agdr-docs-concept/FORMAT/)**{ .hidden }
+**[CLICK TO VIEW THIS PAGE RENDERED IN MKDOCS](https://nesi.github.io/agdr-docs/FORMAT/)**{ .hidden }
 
 !!! prerequisite "See also"
     - To learn how you can contribute, [see CONTRIBUTING](CONTRIBUTING.md).

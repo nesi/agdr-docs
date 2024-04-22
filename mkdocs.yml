@@ -35,12 +35,12 @@ plugins:
       verbose: false
       include_dir: overrides
 repo_name: GitHub
-repo_url: https://github.com/nesi/agdr-docs-concept
+repo_url: https://github.com/nesi/agdr-docs
 edit_uri: edit/main/docs/
 site_description: AGDR
 site_dir: public
 site_name: AGDR
-site_url: https://github.com/nesi/agdr-docs-concept
+site_url: https://github.com/nesi/agdr-docs
 extra_css:
   - assets/stylesheets/footer.css
   - assets/stylesheets/my.css
