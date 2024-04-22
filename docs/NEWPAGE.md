@@ -2,7 +2,7 @@
 title: Create a new page
 ---
 
-**[CLICK TO VIEW THIS PAGE RENDERED IN MKDOCS](https://nesi.github.io/agdr-docs-concept/NEWPAGE/)**{ .hidden }
+**[CLICK TO VIEW THIS PAGE RENDERED IN MKDOCS](https://nesi.github.io/agdr-docs/NEWPAGE/)**{ .hidden }
 
 !!! prerequisite "See also"
     - To learn how you can contribute, [see CONTRIBUTING](CONTRIBUTING.md).
