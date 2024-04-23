@@ -5,9 +5,9 @@ description: ""
 
 You may find access to the forms from project description pages. Direct links provided below:
 
-- Phormidium project page: https://gen3.data.nesi.org.nz/TAONGA-PHORMIDIUM
+- Phormidium project page: [https://data.agdr.org.nz/discovery/TAONGA-AGDR00006](https://data.agdr.org.nz/discovery/TAONGA-AGDR00006){:target="_blank"}
 
-- Rattus-rattus project page: https://gen3.data.nesi.org.nz/TAONGA-RATTUSRATTUS
+- Rattus-rattus project page: [https://data.agdr.org.nz/discovery/TAONGA-RATTUSRATTUS](https://data.agdr.org.nz/discovery/TAONGA-RATTUSRATTUS){:target="_blank"}
 
 ![Alt text](../assets/images/request1.png)
 
