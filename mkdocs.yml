@@ -17,10 +17,10 @@ markdown_extensions:
   - attr_list
   - abbr
   - footnotes
-# extra:
-#   analytics:
-#     provider: google
-#     property: 
+ extra:
+   analytics:
+     provider: google
+     property: G-XJVS54JJBF
 plugins:
   - search
   - awesome-pages:
