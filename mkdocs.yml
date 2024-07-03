@@ -40,7 +40,7 @@ edit_uri: edit/main/docs/
 site_description: AGDR
 site_dir: public
 site_name: AGDR
-site_url: https://github.com/nesi/agdr-docs
+site_url: https://docs.agdr.org.nz/
 extra_css:
   - assets/stylesheets/footer.css
   - assets/stylesheets/my.css
