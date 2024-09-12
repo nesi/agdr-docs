@@ -2,10 +2,4 @@
 nav:
 - known_deficiencies.md
 - ...
-- 20Aug2024.md
-- 13Aug2024.md
-- 29May2024.md
-- 16Jan2024.md
-- 16Oct2023.md
-- 08Aug2023.md
-- 22June2023.md
+order: desc
