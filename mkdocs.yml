@@ -78,5 +78,3 @@ extra_css:
   - assets/stylesheets/theme.css
 extra_javascript:
   - assets/javascripts/general.js
-  # Uncomment to include nesi status window.
-  # - https://status.nesi.org.nz/embed/script.js
