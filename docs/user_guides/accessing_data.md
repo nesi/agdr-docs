@@ -9,7 +9,7 @@ Most of the Aotearoa Genomic Data Repository datasets are currently hosted on Ne
 
 ## What is Globus?
 
-Globus is a data transfer platform that provides a secure, unified interface to your research data. Globus uses the concept of endpoints to describe shared file locations that are accessible using Globus interface. You may initiate data transfer between any two endpoints that you have permission to. You may log in using your institutional account, Google account, ORCiD, or sign up with a new account on Globus ID.
+Globus is a data transfer platform that provides a secure, unified interface to your research data. Globus uses the concept of endpoints to describe shared file locations that are accessible using Globus interface. You may initiate data transfer between any two endpoints that you have permission to. You may log in using your institutional account, Google account, ORCID, or sign up with a new account on Globus ID.
 
 ## How to set up your endpoint
 
@@ -29,7 +29,7 @@ In order to download from above endpoint, you will need a destination endpoint. 
 
 - If you wish to use NeSI compute, ask NeSI staff to copy the files into a project folder
 
-    - You can let us know at [gasupport@nesi.org.nz](gasupport@nesi.org.nz) along with your NeSI project code. We can make the files visible from your project.
+    - You can let us know at [gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz) along with your NeSI project code. We can make the files visible from your project.
 
 ## Transfer
 

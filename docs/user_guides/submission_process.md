@@ -13,7 +13,7 @@ More information about the design and operating principles of the Aotearoa Genom
 
 ![Alt text](../assets/images/submit1.jpeg)
 
-1. Fill out the application form - [Application form for submitting data](https://docs.google.com/forms/d/e/1FAIpQLSfiIehUu8uSjf7hRbd1fFXHwGJ_x0J_a03yukM-SHBYkGK9dg/viewform) (If this isn't suitable for your dataset, please reach out to [gasupport@nesi.org.nz](gasupport@nesi.org.nz) and we will be happy to discuss it with you)
+1. Fill out the application form - [Application form for submitting data](https://docs.google.com/forms/d/e/1FAIpQLSfiIehUu8uSjf7hRbd1fFXHwGJ_x0J_a03yukM-SHBYkGK9dg/viewform) (If this isn't suitable for your dataset, please reach out to [gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz) and we will be happy to discuss it with you)
 2. After review of your application form we will provide you with a metadata template spreadsheet to complete and instructions to transfer your data via Globus.
 3. Please return the completed spreadsheet so we can proceed with your submission.
 4. We validate your metadata and ingest it into AGDR on your behalf, we will then provide you with a URL to review your dataset and we can make changes as requested. We will also provide you with a DOI that can be used for publication etc.

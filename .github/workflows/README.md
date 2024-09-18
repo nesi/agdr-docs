@@ -4,9 +4,9 @@ Description of current CI workflow.
 
 ## [fetch_includes.yml](fetch_includes.yml)
 
-Retreives dynamically generated content from external sources.
+Retrieves dynamically generated content from external sources.
 
-Currently retreives:
+Currently retrieves:
     - Software module list from [modules-list](https://github.com/nesi/modules-list).
     - Glossary, spellcheck dictionary and snippets from [nesi-wordlist](https://github.com/nesi/nesi-wordlist)
 
