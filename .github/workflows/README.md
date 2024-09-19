@@ -16,3 +16,7 @@ More info on what these checks do in [README.md](../../checks/README.md)
 ## [deploy.yml](deploy.yml)
 
 Runs on push to _main_ branch. Builds and deploys pages.
+
+## [depo_deploy.yml](demo_deploy.yml)
+
+## [auto_merge.yml](auto_marge.yml)
