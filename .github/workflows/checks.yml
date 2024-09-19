@@ -3,6 +3,7 @@ env:
   MODULE_LIST_PATH: docs/assets/module-list.json
 on:
   push:
+    branches-ignore: [main]
   workflow_dispatch:
     inputs:
       fileList:
@@ -35,7 +36,8 @@ jobs:
     name: Determine what files to check
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: Get changed files
@@ -48,7 +50,8 @@ jobs:
         if: inputs.fileList == ''
         id: diff
         run: |
-          echo "Changed files: ${{steps.get-changed-files.outputs.all_changed_files}}"
+          echo "::info::Workflow triggered by PR"
+          echo "Changed files: '${{steps.get-changed-files.outputs.all_changed_files}}'"
           echo "filelist=${{steps.get-changed-files.outputs.all_changed_files}}" >> $GITHUB_OUTPUT
     outputs:
       filelist: ${{steps.diff.outputs.filelist || inputs.fileList}}
@@ -141,4 +144,7 @@ jobs:
         with:
           fetch-depth: 0
       - run: pip install -r requirements.txt
-      - run: mkdocs build --strict 2>&1 | awk -F " - " '{gsub(/ /, "", $1);gsub(/INFO/, "notice", $1); printf("::%s::%s\n",$1,$2) }'
+      - run: echo "::group::Test Build"
+      - run: ./checks/run_test_build.py
+      - run: echo "::endgroup::"
+

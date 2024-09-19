@@ -35,7 +35,7 @@ Scroll down to see the list of files.
 
 Clicking on the project ID of a file will display more information about the associated project.
 
-Please note although file metadata is shown, the data files are not available for download without completing the application process. Please click on the "Apply for access" link to do this.  
+Please note although file metadata is shown, the data files are not available for download without completing the application process. Please click on the "Apply for access" link to do this.
 
 ## Project View
 

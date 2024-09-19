@@ -96,6 +96,7 @@
                     "line": 6,
                     "message": 7
                 },
+                "owner": "test-build",
                 "fileLocation": [
                     "relative",
                     "${workspaceFolder}/docs"
@@ -111,7 +112,7 @@
                 "reveal":"never",
                 "showReuseMessage": false
             },
-            "command": "mkdocs serve --dirty --quiet"
+            "command": "mkdocs serve --dirty"
         },
     ]
 }

@@ -29,7 +29,7 @@ In order to download from above endpoint, you will need a destination endpoint. 
 
 - If you wish to use NeSI compute, ask NeSI staff to copy the files into a project folder
 
-    - You can let us know at [gasupport@nesi.org.nz](gasupport@nesi.org.nz) along with your NeSI project code. We can make the files visible from your project.
+    - You can let us know at [gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz) along with your NeSI project code. We can make the files visible from your project.
 
 ## Transfer
 
