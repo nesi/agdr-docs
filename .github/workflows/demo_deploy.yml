@@ -6,10 +6,10 @@
 #   pull_request:
 # env:
 #   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#   TARGET_REPO: "support-docs-dev"
+#   TARGET_REPO: "agdr-docs"
 #   TARGET_OWNER: "CallumWalley"
 #   WORKFLOW_ID: "deploy.yml"
-#   DEPLOY_URL: "https://callumwalley.github.io/support-docs-dev"
+#   DEPLOY_URL: "https://callumwalley.github.io/"
 #   HEAD: ${{ github.event.pull_request.head.ref }}
 # permissions: write-all
 # jobs:

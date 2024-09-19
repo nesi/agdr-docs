@@ -39,7 +39,4 @@
     "redhat.telemetry.enabled": false,
     "githubPullRequests.pushBranch": "always",
     "git.useEditorAsCommitInput": false,
-    "yaml.schemas": {
-        "https://json.schemastore.org/github-workflow.json": "file:///workspaces/support-docs/.github/workflows/deploy.yml"
-    }
 }
