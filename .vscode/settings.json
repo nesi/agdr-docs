@@ -1,5 +1,6 @@
 {
     "editor.indentSize": "tabSize",
+    "triggerTaskOnSave.on": true,
     "triggerTaskOnSave.tasks": {
         "meta-checks": [
             "docs/**/*.md"
@@ -39,4 +40,16 @@
     "redhat.telemetry.enabled": false,
     "githubPullRequests.pushBranch": "always",
     "git.useEditorAsCommitInput": false,
+    "markdown.copyFiles.destination": {
+        "docs/**/*": "/docs/assets/images/"
+    },
+    "markdown.updateLinksOnFileMove.enabled":"prompt",
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": true,
+        "editor.unicodeHighlight.invisibleCharacters": true,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.suggest.preview": true,
+        "editor.suggest.showUsers": false,
+    },
 }
