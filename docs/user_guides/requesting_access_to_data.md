@@ -21,4 +21,4 @@ After submitting the form, you will receive an e-mail confirmation. Please answe
 
 ![Alt text](../assets/images/request3.png)
 
-Once the form is submitted, NeSI’s support team is notified of a new request and a ticket is created. The request will be reviewed by the AGDR team and passed on to the appropriate kaitiaki. After approval access will be granted to the data, alternatively we will reach out for more information in order to support your application and move towards approval. This process usually takes about 1 month, but feel free to reach out to [gasupport@gmail.com](mailtogasupport@gmail.com) if you have any concerns.
+Once the form is submitted, NeSI’s support team is notified of a new request and a ticket is created. The request will be reviewed by the AGDR team and passed on to the appropriate kaitiaki. After approval access will be granted to the data, alternatively we will reach out for more information in order to support your application and move towards approval. This process usually takes about 1 month, but feel free to reach out to [gasupport@gmail.com](mailto:gasupport@gmail.com) if you have any concerns.
