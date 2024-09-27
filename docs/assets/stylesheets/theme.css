@@ -14,11 +14,50 @@
     --md-accent-bg-color:                rgb(210,227,235);
     --md-accent-bg-color--light:         rgb(210,227,235,0.5);
   }
+/* :root{
+  --nesi-grey : #414f5c;
+  --nesi-grey--light: #94a5ad;
+  --nesi-yellow :#fcce06;
+  --nesi-purple: rgb(202, 159, 213);
+  --nesi-orange : rgb(244, 121, 37);
+  --nesi-blue : #4fbaed;
+  --nesi-red:#ef315e;
+  --nesi-green: #cce310;
+
+  [data-md-color-scheme="default"]{
+    --md-primary-fg-color:               var(--nesi-red);
+    
+    --md-accent-fg-color:                var(--nesi-orange);;
+    --md-accent-fg-color--transparent:   rgb(244, 121, 37, 0.25);
+  }
+
+   --md-accent-bg-color:                rgb(210,227,235); 
+  [data-md-color-scheme="slate"] {
+    --md-primary-fg-color:               var(--nesi-red);
+    --md-accent-fg-color:                var(--nesi-orange);;
+    --md-accent-fg-color--transparent:   rgb(244, 121, 37, 0.25);
+
+    .nt-card-image>img {
+      filter: brightness(0) invert(1);
+    }
+  }
+} 
+// Logo biggification
+/* .md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 4rem;
+  margin: -2rem;
+} */
+
+/* Version table stuff */
 .md-tag.md-tag-ver{
   color: var(--md-code-fg-color);
 }
 .md-tag.md-tag-ver-shown {
     outline: var(--md-primary-fg-color) 2px solid;
+}
+
+.md-tag-ver-warn {
+  text-decoration: line-through;
 }
 .md-typeset__table {
   width: 100%;
@@ -26,9 +65,11 @@
 .md-typeset__table table:not([class]) {
   display: table
 }
+/* convenience class. Not sure if it is used */
 .hidden{
     display: none;
 }
+/* Get support button */
 .md-button-support{
   position: absolute;
   margin: -2rem 0 0 1rem;

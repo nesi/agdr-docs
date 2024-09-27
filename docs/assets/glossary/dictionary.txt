@@ -1750,6 +1750,7 @@ json-c's
 json-c
 jvarkit's
 jvarkit
+kaitiaki
 kaitiakitanga
 kalign2's
 kalign2
@@ -2168,6 +2169,7 @@ tabix's
 tabix
 tabixpp's
 tabixpp
+taonga
 tbb's
 tbb
 tbl2asn's
