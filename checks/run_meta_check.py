@@ -62,7 +62,7 @@ def main():
         _nav_check()
         with open(input_path, "r") as f:
             print(f"Checking meta for {f.name}")
-            if 1:
+            try:
                 contents = f.read()
                 match = re.match(r"---\n([\s\S]*?)---", contents, re.MULTILINE)
                 if not match:
@@ -93,8 +93,8 @@ def main():
                         _run_check(check)
                 for check in ENDCHECKS:
                     _run_check(check)
-            # except Exception as e:
-            #     print(f"::error file={input_path},title=misc,col=0,endColumn=0,line=1 ::{e}")
+            except Exception as e:
+                print(f"::error file={input_path},title=misc,col=0,endColumn=0,line=1 ::{e}")
 
 def _run_check(f):
     for r in f():
