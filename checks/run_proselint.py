@@ -29,5 +29,6 @@ if __name__ == "__main__":
                 f"::{notice[7]} file={file},line={notice[2]+1},"
                 f"col={notice[3]+2},endColumn={notice[2]+notice[6]+1},"
                 f"title={notice[0]}::'{notice[1]}'",
+                flush=True
             )
             time.sleep(0.01)
