@@ -23,11 +23,11 @@ if __name__ == "__main__":
     for file in files:
         print(f"Running proselint on {file}")
         content = Path(file).read_text(encoding="utf8")
-        fails = proselint.tools.lint(content, config=config_custom)
         for notice in proselint.tools.lint(content, config=config_custom):
             print(
                 f"::{notice[7]} file={file},line={notice[2]+1},"
                 f"col={notice[3]+2},endColumn={notice[2]+notice[6]+1},"
                 f"title={notice[0]}::'{notice[1]}'",
+                flush=True
             )
             time.sleep(0.01)
