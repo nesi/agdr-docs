@@ -1,4 +1,5 @@
 # Page tree
 nav:
   - user_guides
+  - general_information
   - "Release Notes data.agdr.org.nz" : release_notes
