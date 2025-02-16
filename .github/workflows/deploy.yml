@@ -1,8 +1,8 @@
 name: Deploy to gh-pages 
 on: 
- push:
+  push:
     branches: [main]
- workflow_dispatch:
+  workflow_dispatch:
 env:
   PYTHON_VERSION: 3.x
   GH_TOKEN: ${{ github.token }}
@@ -14,7 +14,7 @@ permissions:
 jobs:
   documentation:
     name: Build documentation
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,6 +23,7 @@ jobs:
           sparse-checkout: |
             docs
             overrides
+            .github
       - name: Set up Python runtime
         uses: actions/setup-python@v5
         with:
