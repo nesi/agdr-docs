@@ -1,5 +1,5 @@
 {
-	// Place your agdr-docs workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// Place your support-docs workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
 	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
 	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
 	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
@@ -85,7 +85,9 @@
 			"created_at: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
 			// "title: ${1:${TM_FILENAME/_/ /g}}}",
 			"description: ${1}",
-			"tags: [${2}]",
+			"tags: ",
+			"    - ${2}",
+			"    - ${3}",
 			"---",
 			"",
 			"${0}"
@@ -98,7 +100,9 @@
 		"---",
 		"created_at: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
 		"description: ${1:Will be used to generate page preview. Should not contain keywords not in the body of article.}",
-		"tags: [${2:tag1},${3:tag2}]",
+		"tags:",
+		"    - ${2:tag1}",
+		"    - ${3:tag2}",
 		"---",
 		"",
 		"${4:Short preface to article.}",
