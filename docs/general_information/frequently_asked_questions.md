@@ -7,7 +7,7 @@ description: ""
 # Frequently Asked Questions
 
 ## What is the AGDR metadata model?
-The metadata model for AGDR can be viewed at https://data.agdr.org.nz/DD.  This bespoke metadata dictionary was built incorporating existing standards, such as the Genomics Standards Consortium's Minimum Information about any (x) Sequence (MIxS, https://www.gensc.org/pages/projects/mixs-gsc-project.html) (Field et al., 2008; Wooley et al., 2009) and several relevant fields derived from the Biodiversity Information Standards Organization (TDWG, https://dwc.tdwg.org/) “Darwin Core Standard” (Wieczorek et al., 2012) while also incorporating unique aspects such as the data governance considerations and the adoption of Biocultural Labels and Notices (Anderson & Hudson, 2020). 
+The metadata model for AGDR can be viewed at [https://data.agdr.org.nz/DD](https://data.agdr.org.nz/DD).  This bespoke metadata dictionary was built incorporating existing standards, such as the Genomics Standards Consortium's Minimum Information about any (x) Sequence (MIxS, [https://www.gensc.org/pages/projects/mixs-gsc-project.html](https://www.gensc.org/pages/projects/mixs-gsc-project.html)) (Field et al., 2008; Wooley et al., 2009) and several relevant fields derived from the Biodiversity Information Standards Organization (TDWG, [https://dwc.tdwg.org/](https://dwc.tdwg.org/)) “Darwin Core Standard” (Wieczorek et al., 2012) while also incorporating unique aspects such as the data governance considerations and the adoption of Biocultural Labels and Notices (Anderson & Hudson, 2020). 
 Developing this dictionary included several community workshops to further determine what features researchers in Aotearoa New Zealand felt were needed. We are always looking for feedback and can adapt the dictionary to meet new or additional use cases, so please get in touch if you feel you have additional requirements. 
 
 ## What is a project?
@@ -34,10 +34,10 @@ The command du -h will give the file size, parameters such as the depth reportin
 ## How do I generate the file md5 checksums?
 Please generate a md5 checksum for each file you intend to upload. These should be generated from the most original copy of the file
 Sequencing providers often provide the md5 checksum for each file. Please use this checksum where possible
-To generate the md5 checksum, please see the NeSI docs: https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/
+To generate the md5 checksum, please see the NeSI docs: [https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/](https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/)
 
 ## Why do I need to generate file checksums?
 Using the hash generated from a checksum will allow users to check the integrity of a file. This is particularly important as divergences from the original file could occur without being noticed. Common examples where this could happen are files being corrupted over long or unstable file transfers, accidental modification of a file. Files that are identical will produce the same checksum, by checking the checksum of a file, you can see if it has deviated from the file that the checksum was generated from. It is therefore important to use the most original data source to generate the checksum. 
 
 ## How do I get the checksums?
-Please see the NeSI docs https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/
+Please see the NeSI docs [https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/](https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/)
