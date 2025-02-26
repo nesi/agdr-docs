@@ -11,12 +11,6 @@ More information about the design and operating principles of the Aotearoa Genom
 
 The repository has been jointly developed by Genomics Aotearoa and NeSI, and is an evolving project to which we are still adding functionality, so you will see ongoing improvements as we implement new features.
 
-## Recent activity
-
-[//]: # (we could do something like that if needed https://github.com/marketplace/actions/github-activity-readme in the future but for the moment it is manual)
-
-- Moving content to [https://docs.agdr.org.nz](https://docs.agdr.org.nz) from [https://gadr.zendesk.com/hc/en-gb](https://gadr.zendesk.com/hc/en-gb) to new AGDR support documents location
-
 ## Support
 
 [Submit a request](mailto:gasupport@nesi.org.nz?Request_from_Support_Pages){:target="_blank"}
