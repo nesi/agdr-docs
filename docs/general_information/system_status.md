@@ -1,6 +1,6 @@
 ---
-tags: [ about ]
-title: AGDR FAQs
+tags: [ status ]
+title: System Status
 description: ""
 ---
 
