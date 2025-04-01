@@ -5,7 +5,7 @@ description: ""
 ---
 
 Most of the Aotearoa Genomic Data Repository datasets are currently hosted on NeSI with access via Globus. Once you have been approved for access to a dataset you wish to do research on
-(See here: [Requesting access to data](./requesting_access_to_data.md), for how to request access), NeSI's support team will grant you read permission on the data repository Globus endpoint.
+(See here: **<ins>[Requesting access to data](./requesting_access_to_data.md)</ins>**, for how to request access), NeSI's support team will grant you read permission on the data repository Globus endpoint.
 
 ## What is Globus?
 
@@ -23,17 +23,17 @@ In order to download from above endpoint, you will need a destination endpoint. 
 
 - Set up a personal endpoint on your machine and transfer into it
 
-    - [Instructions on how to set up a personal endpoint](https://www.globus.org/globus-connect-personal)
+    - **<ins>[Instructions on how to set up a personal endpoint](https://www.globus.org/globus-connect-personal)</ins>**
 
 - Use your institutional endpoint and transfer into the storage allocated on your institution
 
 - If you wish to use NeSI compute, ask NeSI staff to copy the files into a project folder
 
-    - You can let us know at [gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz) along with your NeSI project code. We can make the files visible from your project.
+    - You can let us know at **<ins>[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)</ins>** along with your NeSI project code. We can make the files visible from your project.
 
 ## Transfer
 
-1. Once you have set up the destination endpoint, go to [https://transfer.nesi.org.nz/](https://transfer.nesi.org.nz/)
+1. Once you have set up the destination endpoint, go to **<ins>[https://transfer.nesi.org.nz/](https://transfer.nesi.org.nz/)</ins>**
 2. Log in
 3. Click on Endpoints from the sidebar menu
 4. Type in Aotearoa Genomic Data Repository NeSI in the search and select it
