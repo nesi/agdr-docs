@@ -3,7 +3,7 @@ tags: []
 description: ""
 ---
 
-The Aotearoa Genomic Data Repository landing page is available at [https://data.agdr.org.nz/](https://data.agdr.org.nz/)
+The Aotearoa Genomic Data Repository landing page is available at **<ins>[https://data.agdr.org.nz/](https://data.agdr.org.nz/)</ins>**.
 
 ![Alt text](../assets/images/getstart1.png)
 
