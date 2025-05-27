@@ -47,3 +47,6 @@ Please submit both POD5 (ideally) or FAST5 files along with derived data that wa
 
 ## How long do I have access to the Globus collection?
 We use Globus for both submission and access. For submission, you will be given access in order to deposit your data in AGDR, this will be valid for 6 months while the submission process is happening. If you require access for longer, please get in touch. We also use Globus to share projects, once you have agreed to the terms and conditions you will have access for 12 months and then need access will be revoked and you need to delete your copy. Again, if you require longer, please be in touch at gasupport@nesi.org.nz.
+
+## What if I have multiplexed files?
+As a general rule we do not accept multiplexed files. We will ask you to demultiplex them and submit the demultiplexed files. This is because it will be easier for future re-use of the data and also works better with our data model which requires a 1:many relationship between sample and file, not a many to many. If you have concerns please be in touch at gasupport@nesi.org.nz.
