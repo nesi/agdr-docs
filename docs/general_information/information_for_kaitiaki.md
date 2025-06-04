@@ -4,10 +4,6 @@ title: Information for Kaitiaki
 description: ""
 ---
 
-
-
-# Aotearoa Genomic Data Repository:
-
 # Information for Kaitiaki
 
 ## What is the Aotearoa Genomic Data Repository?
@@ -114,7 +110,7 @@ Other stipulations include conditions such as
 acknowledgement of kaitiaki for allowing data access.
 Kaitiaki may also impose further stipulations.
 
-The AGDR is accessible at: https://data.agdr.org.nz/
+The AGDR is accessible at: [https://data.agdr.org.nz/](https://data.agdr.org.nz/)
 
 For further information about the Aotearoa Genomic Data Repository, please
 contact: gasupport@nesi.org.nz
