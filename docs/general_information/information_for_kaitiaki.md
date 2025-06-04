@@ -120,4 +120,4 @@ and Employment, and the establishment of the AGDR has been paid for as
 part of the Bioinformatics project within GA, which is tasked with delivering
 infrastructure to support genomic research in NZ.
 
-Please feel free to **<ins>[download a pdf copy] (../assets/documents/kaitiaki_pdf.pdf)</ins>** of this information in order to share it.
+Please feel free to **<ins>[download a pdf copy](../assets/documents/kaitiaki_pdf.pdf)</ins>** of this information in order to share it.
