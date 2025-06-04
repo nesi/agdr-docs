@@ -41,3 +41,12 @@ Using the hash generated from a checksum will allow users to check the integrity
 
 ## How do I get the checksums?
 Please see the NeSI docs [https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/](https://docs.nesi.org.nz/Scientific_Computing/Running_Jobs_on_Maui_and_Mahuika/Checksums/)
+
+## What Oxford Nanopore data should I include?
+Please submit both POD5 (ideally) or FAST5 files along with derived data that was used in your analysis, BAM, FASTQ etc. This allows for the data to be re-analysed as new base callers are released and also gives access to the methylation data. While providing derived data illustrates your methods from a reproducibility perspective. 
+
+## How long do I have access to the Globus collection?
+We use Globus for both submission and access. For submission, you will be given access in order to deposit your data in AGDR, this will be valid for 6 months while the submission process is happening. If you require access for longer, please get in touch. We also use Globus to share projects, once you have agreed to the terms and conditions you will have access for 12 months, after which access will be revoked, and you will be required to delete your copy. Again, if you require longer, please be in touch at gasupport@nesi.org.nz.
+
+## What if I have multiplexed files?
+As a general rule we do not accept multiplexed files. We will ask you to demultiplex them and submit the demultiplexed files. This is because it will be easier for future re-use of the data and also works better with our data model which requires a 1:many relationship between sample and file, not a many to many. If you have concerns please be in touch at gasupport@nesi.org.nz.
