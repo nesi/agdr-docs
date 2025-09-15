@@ -26,7 +26,7 @@ The metadata Template spreadsheet is available as a **<ins>[google sheet](https:
 Once you have made a copy of this document, please fill in all the fields as much as you can under 'Your input'. Please note that there are multiple tabs which you can access via the buttons at the bottom.
 The required fields are highlighted in green, though we recommend you provide as much metadata as possible. 
 
-Indigenous governance can be managed in several ways and we can discuss this with you more. <ins>[Local Contexts](https://localcontexts.org/)</ins> is supported, you can link an existing project in the Local Contexts hub or create a new one for this project. More information on creating projects is available on the <ins>[Getting started on the hub](https://localcontexts.org/support/getting-started-on-the-hub/)</ins> page. 
+Indigenous governance can be managed in several ways and we can discuss this with you more. <ins>[Local Contexts](https://localcontexts.org/)</ins> is supported, you can link an existing Project in the Local Contexts Hub or create a new one for this project. More information on creating Projects is available on the <ins>[Getting started on the Hub](https://localcontexts.org/support/getting-started-on-the-hub/)</ins> page. 
 
 This spreadsheet is based on the <ins>[AGDR data dictionary](https://data.agdr.org.nz/DD)</ins> although some of the more obscure fields are not included in the template. If you have additional metadata, please let us know and we will see how best we can accommodate it.
 If you have any questions throughout the process, please feel free to reach out to **<ins>[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)</ins>**.
