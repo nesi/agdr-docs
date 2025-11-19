@@ -3,6 +3,7 @@ image: nikolaik/python-nodejs
 before_script:
   - apt-get update
   - apt-get -y install curl zip python3-proselint
+  - apt-get -y install libxml2-devel libxslt-devel
   - npm install -g markdownlint-cli
   - pip install -r requirements.txt
   - git config --global user.email "$GITLAB_USER_EMAIL"
