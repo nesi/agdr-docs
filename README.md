@@ -12,7 +12,8 @@ Something has changed under the covers. Looks like Cal
 has already dealt with this and has adjusted run_proselint.py
 in the nesi support-docs repo. I stole that and removed the specification
 of
-```proseline==0.14.0```
+```proseline==0.14.0``` to just
+```proseline```
 in the requirements.txt file. Then while building, another error
 related to lxml. On a hunch that XML is not involved, I just commented
 out lxml in the requirements.txt file and it built and deployed fine.
