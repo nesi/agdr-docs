@@ -9,7 +9,7 @@ on:
     #   type: boolean
     #   default: true
 env:
-  PYTHON_VERSION: 3.x
+  PYTHON_VERSION: '3.12'
   GH_TOKEN: ${{ github.token }}
 permissions:
   contents: write
