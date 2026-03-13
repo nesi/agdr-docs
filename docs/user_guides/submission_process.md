@@ -21,7 +21,7 @@ Note: you can access the submission form from the **<ins>[AGDR website](https://
 
 ## Metadata Template spreadsheet
 
-The metadata Template spreadsheet is available as a **<ins>[google sheet](https://docs.google.com/spreadsheets/d/1zEY6ERoFYPkSwFH4YJkJZApWrHJc3siY8wKCGMP4xfE/edit?gid=188280636#gid=188280636)</ins>**. Please make a copy and rename it relevant to your dataset before entering metadata into it. (You will be provided with this in step 2)
+The metadata Template spreadsheet is available as a **<ins>[google sheet](https://docs.google.com/spreadsheets/d/1S8FiC117AjlS-c9ng-bLKYFXMrk05gJV0IDflSeOqr4/edit?gid=188280636#gid=188280636)</ins>**. Please make a copy and rename it relevant to your dataset before entering metadata into it. (You will be provided with this in step 2)
 
 Once you have made a copy of this document, please fill in all the fields as much as you can under 'Your input'. Please note that there are multiple tabs which you can access via the buttons at the bottom.
 The required fields are highlighted in green, though we recommend you provide as much metadata as possible. 
