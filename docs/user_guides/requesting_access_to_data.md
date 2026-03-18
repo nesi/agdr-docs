@@ -3,7 +3,7 @@ tags: []
 description: ""
 ---
 
-Browse the projects available on **<ins>[https://data.agdr.org.nz/discovery)</ins>** or look for specific data types or samples via the exploration page **<ins>[https://data.agdr.org.nz/discovery](https://data.agdr.org.nz/explorer)</ins>**
+Browse the projects available on the **[discovery page](https://data.agdr.org.nz/discovery)** or look for specific data types or samples via the **[exploration page](https://data.agdr.org.nz/explorer)**
 You will be able to apply for access from project description pages. 
 
 The Apply for access button will take you to REMS (Resource Entitlement Management System) which manages all applications for AGDR. Please first register if you have not previously applied for access to a dataset. Once registered, you will be taken to a form to complete. 
