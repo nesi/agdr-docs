@@ -10,6 +10,6 @@ The Apply for access button will take you to REMS (Resource Entitlement Manageme
 
 The form is prepopulated with the dataset that you are applying for access to. You will then need to agree to the terms and conditions and then answer a set of questions that will help with Kāhui Māori considerations, and then with the your research project details.
 
-After submitting the form, you will receive an e-mail confirmation. Please answer as much as you can, but if you need assistance with some of the answers, feel free to contact us at **<ins>[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)</ins>**.
+After submitting the form, you will receive an e-mail confirmation. Please answer as much as you can, but if you need assistance with some of the answers, feel free to contact us at **[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)**.
 
 Once the form is submitted, AGDR support team is notified of a new access request. The request will be reviewed by the AGDR team for completeness and passed on to the appropriate kaitiaki, or returned to you if more information is needed. After approval, access will be granted to the data. If approval is not granted, we will reach out for more information in order to support your application and move towards approval. This process usually takes about 1 month, but feel free to reach out to **[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)** if you have any concerns.
