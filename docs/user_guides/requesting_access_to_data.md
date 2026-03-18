@@ -3,22 +3,13 @@ tags: []
 description: ""
 ---
 
-You may find access to the forms from project description pages. Direct links provided below:
+Browse the projects available on **<ins>[https://data.agdr.org.nz/discovery)</ins>** or look for specific data types or samples via the exploration page **<ins>[https://data.agdr.org.nz/discovery](https://data.agdr.org.nz/explorer)</ins>**
+You will be able to apply for access from project description pages. 
 
-- Phormidium project page: **<ins>[https://data.agdr.org.nz/discovery/TAONGA-AGDR00006](https://data.agdr.org.nz/discovery/TAONGA-AGDR00006){:target="_blank"}</ins>**
+The Apply for access button will take you to REMS (Resource Entitlement Management System) which manages all applications for AGDR. Please first register if you have not previously applied for access to a dataset. Once registered, you will be taken to a form to complete. 
 
-- Rattus-rattus project page: **<ins>[https://data.agdr.org.nz/discovery/TAONGA-RATTUSRATTUS](https://data.agdr.org.nz/discovery/TAONGA-RATTUSRATTUS){:target="_blank"}</ins>**
-
-![Alt text](../assets/images/request1.png)
-
-The button to Apply for access is at the bottom links to the access request form, which is located at: **<ins>[https://docs.google.com/forms/u/1/d/e/1FAIpQLScerXN4MLIAgnLfrHbvheMwtM6gtDNaluZ3c_-xEiot2hc6DA/viewform](https://docs.google.com/forms/u/1/d/e/1FAIpQLScerXN4MLIAgnLfrHbvheMwtM6gtDNaluZ3c_-xEiot2hc6DA/viewform)</ins>**
-
-The form is designed with Google Forms and starts by asking which dataset you are requesting access to (this field is pre-populated if clicked from the project page), followed by a set of questions that will help with Kāhui Māori considerations, and then with the your research project details.
-
-![Alt text](../assets/images/request2.png)
+The form is prepopulated with the dataset that you are applying for access to. You will then need to agree to the terms and conditions and then answer a set of questions that will help with Kāhui Māori considerations, and then with the your research project details.
 
 After submitting the form, you will receive an e-mail confirmation. Please answer as much as you can, but if you need assistance with some of the answers, feel free to contact us at **<ins>[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)</ins>**.
 
-![Alt text](../assets/images/request3.png)
-
-Once the form is submitted, NeSI’s support team is notified of a new request and a ticket is created. The request will be reviewed by the AGDR team and passed on to the appropriate kaitiaki. After approval access will be granted to the data, alternatively we will reach out for more information in order to support your application and move towards approval. This process usually takes about 1 month, but feel free to reach out to **<ins>[gasupport@gmail.com](mailto:gasupport@gmail.com)</ins>** if you have any concerns.
+Once the form is submitted, AGDR support team is notified of a new access request. The request will be reviewed by the AGDR team for completness and passed on to the appropriate kaitiaki, or returned to you if more information is needed. After approval, access will be granted to the data.  If approval is not granted, we will reach out for more information in order to support your application and move towards approval. This process usually takes about 1 month, but feel free to reach out to **<ins>[gasupport@gmail.com](mailto:gasupport@gmail.com)</ins>** if you have any concerns.
