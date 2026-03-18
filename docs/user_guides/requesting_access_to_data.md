@@ -6,7 +6,7 @@ description: ""
 Browse the projects available on the **[discovery page](https://data.agdr.org.nz/discovery)** or look for specific data types or samples via the **[exploration page](https://data.agdr.org.nz/explorer)**
 You will be able to apply for access from project description pages. 
 
-The Apply for access button will take you to REMS (Resource Entitlement Management System) which manages all applications for AGDR. Please first register if you have not previously applied for access to a dataset. Once registered, you will be taken to a form to complete. 
+The **Apply for access** button on each project page will take you to REMS (Resource Entitlement Management System) which manages all applications for AGDR. Please first register if you have not previously applied for access to a dataset. Once registered, you will be taken to a form to complete. 
 
 The form is prepopulated with the dataset that you are applying for access to. You will then need to agree to the terms and conditions and then answer a set of questions that will help with Kāhui Māori considerations, and then with the your research project details.
 
