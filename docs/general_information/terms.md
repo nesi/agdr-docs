@@ -12,7 +12,7 @@ Condition 2. You will need to ensure that the commitments made in the applicatio
 
 Condition 3. You will ensure that there will be no sharing of data with any other party, without prior informed approval of Genomics Aotearoa and the Kaitiaki Māori. This includes depositing the data in any online repository or archive, which is specifically prohibited.
 
-Condition 4. Any commercial opportunities which arise or are discovered will be bought to the attention of the Kaitiaki Māori prior to any announcement or disclosure to any other party. You will offer the Kaitiaki Māori the opportunity to be a beneficiary or business partner in any commercial opportunity.
+Condition 4. Any commercial opportunities which arise or are discovered will be brought to the attention of the Kaitiaki Māori prior to any announcement or disclosure to any other party. You will offer the Kaitiaki Māori the opportunity to be a beneficiary or business partner in any commercial opportunity.
 
 Condition 5. Access to the data will expire at the end of your project, after 12 months. If you still require access to the data after this date, please contact Genomics Aotearoa priorone month prior to the 12 month expiry to arrange for an extension. Once your access to the data set has expired, you are required to delete all copies of the data set, and provide Genomics Aotearoa with a brief description of the work that was undertaken with the data set.
 
