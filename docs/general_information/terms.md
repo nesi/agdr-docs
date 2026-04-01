@@ -6,7 +6,7 @@ description: ""
 
 # Standard Data Access Terms
 
-Condition 1: Kaitiaki Māori and Genomics Aotearoa will need to be informed of any changes to the research programme, prior to those changes being made.
+Condition 1. Kaitiaki Māori and Genomics Aotearoa will need to be informed of any changes to the research programme, prior to those changes being made.
 
 Condition 2. You will need to ensure that the commitments made in the application are met. Particularly that the outcomes for Māori are highlighted in publications and reported to Genomics Aotearoa and the Kaitiaki Māori.
 
