@@ -1,5 +1,6 @@
 # Page tree
 nav:
+- introduction.md
 - agdr_advisory_board.md
 - information_for_kaitiaki.md
 - information_for_publishers.md
