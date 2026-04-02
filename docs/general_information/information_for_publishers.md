@@ -1,6 +1,5 @@
-
 ---
-tags: [ publishers ]
+tags: [publishers]
 title: Information for Publishers
 description: ""
 ---
