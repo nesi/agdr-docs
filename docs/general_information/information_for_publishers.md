@@ -1,4 +1,4 @@
-<img width="468" height="55" alt="image" src="https://github.com/user-attachments/assets/4ccf973d-fc8d-4be1-a99d-0bb17df845a9" />
+
 ---
 tags: [ publishers ]
 title: Information for Publishers
