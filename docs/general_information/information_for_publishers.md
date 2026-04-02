@@ -19,7 +19,7 @@ AGDR is aligned with the TRUST model for data repositories (https://www.nature.c
 
 Reviewer access is supported through applying for review-based data access and this will be approved by the kaitiaki for the dataset. 
 
-For additional context on the importance of control access repositories in a non-human context, see the Science publication by Professor Tahu Kukutai and Preofessor Amanda Black https://www.science.org/doi/10.1126/science.adr2493 
+For additional context on the importance of control access repositories in a non-human context, see the Science publication by Professor Tahu Kukutai and Professor Amanda Black https://www.science.org/doi/10.1126/science.adr2493 
 
 
 
